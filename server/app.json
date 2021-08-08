@@ -1,0 +1,7 @@
+{
+    "name": "Pocket Park",
+    "description": "A barebones Node.js app using Express 4",
+    "repository": "https://github.com/ivy-zhou/climatecode2021",
+    "keywords": ["node", "express", "heroku"],
+    "image": "heroku/nodejs"
+}
